@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto 04 é uma criação de uma Landing-page responsiva para treinar sobre a responsividade do html e css.
+O projeto 04 é uma criação de uma Landing-page responsiva para treinar sobre a responsividade do HTML e CSS.
 
 - [Visite o projeto online](https://lucasrsillva2000.github.io/projeto-04/)
 
@@ -44,4 +44,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Lucas :wave: [Participe da comunidade da RocketSeat!](https://discord.gg/rocketseat)
